@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說無量功德陀羅尼經
+#+DATE: 2015-08-30 20:25:59.904987
+#+PROPERTY: JUAN 0
