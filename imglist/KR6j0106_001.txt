@@ -1,0 +1,3 @@
+001-0080a00	TKD 34-0480b	buddhist/K-koreana/34-tif/0400-0499/34_0480_B.TIF
+001-0080a05	TKD 34-0480c	buddhist/K-koreana/34-tif/0400-0499/34_0480_C.TIF
+001-0080b00	T 001-0080b	buddhist/T-taisho/T19/00/T19-0080.png
