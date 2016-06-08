@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:00.321275
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:17
 #+TITLE: 佛說無量功德陀羅尼經
 #+PROPERTY: CBETA_ID T19n0934
 #+PROPERTY: ID KR6j0106
